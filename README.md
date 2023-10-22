@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Yezi1015
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Yezi1015/Yezi1015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey！！！我是叶子，一只技术不高但是超级会摸鱼的喵！
+来此站瞻仰一下各位大佬的作品以及学习一下各位大佬的技术，希望能在这里学到些东西，感谢各位！！！
+博客地址:Meow1015.site
+（虽然目前还做的不太好，但是以后会努力的啦！）ヾ(´∀｀。ヾ)
